@@ -1,0 +1,29 @@
+Request method:	DELETE
+Request URI:	https://staging-demo.yuja.com/services/devices/unregister/6397
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		authToken=3bdb8dd01c205133e35d4b3713c42f66
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 19 Apr 2023 03:46:09 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 16
+Connection: keep-alive
+Set-Cookie: AWSALB=pr/OoLx1n1N/hu8dRonttjP7nMHotZleSbO++W1x62qSH8C+LRdjCBfHHCRGGwZjbUbWdyVqE+zGG9XxjQcqh6hAtski9IK8sLFKvm3Rd3cyo3cAMvdbUO2LkxDF; Expires=Wed, 26 Apr 2023 03:46:09 GMT; Path=/
+Set-Cookie: AWSALBCORS=pr/OoLx1n1N/hu8dRonttjP7nMHotZleSbO++W1x62qSH8C+LRdjCBfHHCRGGwZjbUbWdyVqE+zGG9XxjQcqh6hAtski9IK8sLFKvm3Rd3cyo3cAMvdbUO2LkxDF; Expires=Wed, 26 Apr 2023 03:46:09 GMT; Path=/; SameSite=None; Secure
+P3P: CP="CAO IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Set-Cookie: JSESSIONID=iEBYvwymc_8l-xtSJ89hhmeN_HEksIsDmd4ASqIY.server1; Path=/; Secure; HttpOnly; Comment=; SameSite=None;
+Content-Security-Policy: default-src * 'self' blob: data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+
+{
+    "success": true
+}
